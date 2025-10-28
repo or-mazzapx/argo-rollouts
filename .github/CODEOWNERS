@@ -1,0 +1,6 @@
+# This file defines code ownership for the repository
+# Each line is a file pattern followed by one or more owners
+# Owners are automatically requested for review when someone opens a pull request
+
+# All files in the repository are owned by the infrastructure-engineering team
+* @or-mazzapx/infrastructure-engineering
